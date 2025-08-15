@@ -1,0 +1,99 @@
+Age,Income,CreditScore,YearsEmployed,Education,Job,Location,LoanApproved
+37,61895.42,730,2.86,Bachelor,Admin,Urban,1
+39,60021.77,673,8.41,High School,Technical,Urban,1
+25,53841.30,757,2.24,High School,Technical,Urban,1
+45,47780.28,650,7.01,High School,Management,Suburban,1
+40,53748.86,635,8.48,High School,Technical,Urban,0
+28,58977.30,660,5.10,Bachelor,Admin,Urban,1
+38,70118.95,742,10.54,High School,Technical,Urban,1
+36,55483.39,778,9.91,Master,Technical,Urban,1
+27,65651.84,656,3.56,High School,Admin,Urban,1
+48,47431.16,657,3.67,Master,Management,Suburban,1
+45,53649.01,763,9.77,High School,Technical,Urban,1
+33,39897.58,654,5.75,High School,Admin,Urban,0
+41,73551.00,796,2.72,Master,Management,Urban,1
+38,77073.94,711,5.73,High School,Admin,Urban,1
+37,44661.01,690,2.44,Bachelor,Admin,Urban,1
+36,76079.38,716,7.23,Master,Executive,Urban,1
+31,66307.44,747,2.85,Master,Technical,Urban,1
+25,50947.04,753,3.99,Bachelor,Admin,Urban,1
+30,67399.28,599,1.46,High School,Technical,Urban,0
+46,58926.07,711,9.22,High School,Admin,Urban,1
+34,55881.45,705,4.69,High School,Admin,Urban,1
+36,51566.24,795,6.95,High School,Technical,Urban,1
+25,55982.34,716,3.25,High School,Admin,Urban,1
+46,52834.26,696,4.77,Master,Management,Urban,1
+39,62602.97,606,7.24,High School,Technical,Urban,0
+23,49834.89,616,2.44,High School,Technical,Urban,0
+34,63444.41,727,5.24,Bachelor,Admin,Urban,1
+41,46624.05,689,10.24,High School,Admin,Suburban,1
+39,69487.55,772,3.32,Master,Management,Urban,1
+26,50795.02,654,4.26,High School,Technical,Urban,0
+40,56264.10,770,4.88,High School,Admin,Urban,1
+33,60428.84,598,8.35,Bachelor,Admin,Urban,0
+27,61935.65,734,1.94,High School,Technical,Urban,1
+35,55694.73,746,2.20,PhD,Executive,Urban,1
+30,43594.88,672,2.97,High School,Technical,Urban,0
+24,59584.58,773,1.60,High School,Technical,Urban,1
+37,67923.09,778,7.08,High School,Admin,Urban,1
+43,53918.00,715,6.64,High School,Management,Urban,1
+26,64173.28,643,4.36,High School,Technical,Urban,0
+24,47193.47,739,4.42,High School,Technical,Urban,1
+35,69953.02,635,3.93,High School,Admin,Urban,0
+34,47598.93,697,2.01,High School,Technical,Urban,1
+28,60069.69,654,3.18,High School,Admin,Urban,0
+46,52954.42,706,5.45,High School,Admin,Urban,1
+33,60954.10,674,9.22,High School,Technical,Urban,1
+38,83074.06,686,5.73,Bachelor,Admin,Urban,1
+44,56151.30,709,8.74,High School,Admin,Urban,1
+33,37968.57,740,2.36,High School,Technical,Suburban,1
+34,59764.66,641,3.89,High School,Technical,Urban,0
+48,41729.73,702,4.28,Master,Technical,Urban,1
+17,58704.68,629,3.32,High School,Technical,Urban,0
+45,68839.13,764,5.43,High School,Admin,Urban,1
+44,61001.09,740,6.32,High School,Technical,Urban,1
+27,59584.65,711,3.04,High School,Admin,Urban,1
+35,57217.39,676,6.62,High School,Admin,Urban,1
+39,50633.70,762,6.46,High School,Admin,Urban,1
+58,56991.23,645,7.77,High School,Management,Urban,0
+30,56929.12,763,1.01,High School,Technical,Urban,1
+50,76693.88,733,9.15,High School,Admin,Urban,1
+36,74834.05,706,2.95,High School,Management,Urban,1
+33,52944.41,646,6.24,Master,Management,Urban,0
+40,62183.94,747,9.53,High School,Admin,Urban,1
+38,61462.26,730,4.71,High School,Technical,Urban,1
+41,71080.85,708,5.78,Master,Executive,Urban,1
+31,47580.16,652,9.93,High School,Admin,Urban,0
+38,34838.20,722,5.68,High School,Management,Suburban,1
+42,84879.61,750,6.14,High School,Admin,Urban,1
+28,69343.54,709,3.09,High School,Admin,Urban,1
+37,65078.39,701,3.97,High School,Admin,Urban,1
+39,36954.68,684,9.22,High School,Admin,Suburban,1
+31,61599.19,709,2.71,High School,Technical,Urban,1
+32,84222.75,701,7.38,High School,Admin,Urban,1
+48,27642.92,682,6.73,High School,Admin,Rural,0
+42,59267.33,731,8.40,PhD,Executive,Urban,1
+31,49462.25,653,3.86,High School,Technical,Urban,0
+40,54989.07,811,6.16,High School,Technical,Urban,1
+38,50499.83,741,3.97,High School,Technical,Urban,1
+24,70638.42,776,5.37,High School,Management,Urban,1
+37,63456.00,767,4.31,High School,Management,Urban,1
+29,60797.03,697,1.68,High School,Admin,Urban,1
+38,53371.38,641,3.48,Bachelor,Management,Urban,0
+33,65151.26,684,3.20,High School,Admin,Urban,1
+44,65651.94,678,6.62,High School,Management,Urban,1
+27,57242.90,679,1.88,High School,Admin,Urban,1
+38,71733.04,697,4.23,Bachelor,Technical,Urban,1
+40,57033.63,710,5.04,High School,Admin,Urban,1
+41,58639.54,786,4.75,High School,Admin,Urban,1
+39,76622.96,682,5.45,High School,Admin,Urban,1
+32,46193.13,806,1.50,High School,Technical,Urban,1
+39,51493.33,661,7.99,High School,Technical,Urban,1
+19,53677.19,758,1.76,High School,Technical,Urban,1
+44,58686.17,670,5.07,High School,Technical,Urban,1
+38,56883.71,705,3.03,High School,Technical,Urban,1
+40,55784.91,701,4.88,High School,Technical,Urban,1
+38,46736.47,684,2.42,High School,Admin,Urban,1
+34,50984.40,763,5.19,High School,Technical,Urban,1
+45,61795.90,684,10.97,High School,Admin,Urban,1
+31,56431.88,717,7.46,High School,Technical,Urban,1
